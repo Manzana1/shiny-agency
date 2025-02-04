@@ -1,6 +1,6 @@
-import DefaultPicture from '../../assets/profile.png'
 import Card from '../../components/Card'
 import styled from 'styled-components'
+import DefaultPicture from '../../assets/profile.jpg'
 
 const CardsContainer = styled.div`
   display: grid;
